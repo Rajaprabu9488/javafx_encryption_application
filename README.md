@@ -27,7 +27,7 @@ A simple JavaFX desktop application that lets you encrypt and decrypt text files
 1. Install Java JDK 8 or later.
 2. Install JavaFX SDK (if not included in your JDK).
 3. Clone this repository:
-   git clone https://github.com//Rajaprabu9488//javafx_encryption_application//
+   git clone https://github.com//Rajaprabu9488//javafx_encryption_application.git
 4. Compile and run:
    javac encryptor.java
    java encryptor
